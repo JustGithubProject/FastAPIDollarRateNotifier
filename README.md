@@ -4,7 +4,7 @@ This project is a simple web application that allows users to input their email 
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/your-username/email-exchange-rate-tracker.git
+1. Clone the repository: git clone https://github.com/JustGithubProject/FastAPIDollarRateNotifier.git
 2. Install the required dependencies: pip install -r requirements.txt
 3. Set up the necessary environment variables:
 - `SMTP_USER`: Your email address (sender's address)
